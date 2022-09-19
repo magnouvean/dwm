@@ -43,6 +43,8 @@ static const Rule rules[] = {
 	{ "firefox",                  NULL, NULL, 1 << 1, 0, -1 },
 	{ "Nyxt",                     NULL, NULL, 1 << 1, 0, -1 },
 	{ "Chromium-browser",         NULL, NULL, 1 << 1, 0, -1 },
+	{ "Zathura",                  NULL, NULL, 1 << 3, 0, -1 },
+	{ "sioyek",                   NULL, NULL, 1 << 3, 0, -1 },
 	{ "Soffice",                  NULL, NULL, 1 << 3, 0, -1 },
 	{ "libreoffice-writer",       NULL, NULL, 1 << 3, 0, -1 },
 	{ "libreoffice-impress",      NULL, NULL, 1 << 3, 0, -1 },
